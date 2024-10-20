@@ -1,9 +1,24 @@
+body {
+    background-image: url("https://i.pinimg.com/control/564x/3c/49/c6/3c49c64d475afb79bc2e8a8bfea3c62f.jpg");
+
+}
 
 h1 {
     text-align: center;
     margin-top: 10px;
+    background-color: pink;
+    color: white;
 }
 
 img {
 
+}
+
+.parrafo {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: rgba(248, 134, 174, 0.434);
+    border-radius: 5px;
 }
