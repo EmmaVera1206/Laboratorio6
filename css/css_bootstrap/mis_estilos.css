@@ -22,3 +22,7 @@ img {
     background-color: rgba(248, 134, 174, 0.434);
     border-radius: 5px;
 }
+
+#carouselExample {
+    margin-left: 200px;
+}
